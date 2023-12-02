@@ -313,7 +313,6 @@ void Transaction::print() {
     // Update the head of the history with the sorted list
     p_head = p_sorted_head;
 }
-
 	// Update the acb members in the linked list.
 	//
 	void History::update_acb_cgl()
