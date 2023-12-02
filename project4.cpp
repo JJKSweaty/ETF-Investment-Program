@@ -1,8 +1,8 @@
 ////////////////////////////////////
 // ECE 150: Project 4
 //
-// Authors: Douglas Harder
-//          Hiren Patel
+// 
+//         
 ////////////////////////////////////
 
 #include <cassert>
